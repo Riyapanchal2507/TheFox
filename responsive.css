@@ -1,0 +1,26 @@
+@media screen and (max-width:1199px) {
+    .nav-link{
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width:991px) {
+    .outer-img{
+        display: block!important;
+    }
+    .footer-content {
+        padding-left: 50px;
+    }
+}
+
+@media screen and (max-width: 768px){
+	.navbar-collapse{
+		margin-top: 20px;
+	}
+}
+
+@media screen and (max-width: 768px){
+	.navbar {
+		position: static !important;
+	}
+}
